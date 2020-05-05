@@ -1,0 +1,20 @@
+1:T_js_crashcourse:Java Script(crash course for 
+https://www.youtube.com/watch?v=hdI2bqOjy3c
+
+2:important array method
+https://www.youtube.com/watch?v=R8rmfD9Y5-c
+
+3:Async JS
+https://www.youtube.com/watch?v=PoRJizFvM7s&list=LLXk5Z61I5VmwU6aRex_zq7A&index=2&t=212s
+
+4:oop() object oriented programming 
+https://www.youtube.com/watch?v=vDJpGenyHaA&t=34s
+
+5:fetch API
+https://www.youtube.com/watch?v=Oive66jrwBs&t=21s
+
+6:Morden JS
+https://www.youtube.com/watch?v=JloLGV9DmtQ
+
+7：high order array method
+https://www.youtube.com/watch?v=rRgD1yVwIvE

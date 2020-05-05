@@ -1,0 +1,14 @@
+Reason learn JS:
+1:it is a programming language of the broswer
+2:Build very interactive user inferfaces with frameworks like React
+3:Used in building very fast server side and full stack applications
+4:Used in mobile development
+5:used in desktop application
+
+MDN:best documentation for js
+
+var:global state, don't use it often.
+
+all primitive data type in js: String, Numbers, Boolean, null, undefined
+
+Object literals are basically just key value pairs.

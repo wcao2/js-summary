@@ -1,0 +1,5 @@
+1:https://leetcode.com/problems/two-sum/
+7:https://leetcode.com/problems/reverse-integer/
+9:https://leetcode.com/problems/palindrome-number/
+13:https://leetcode.com/problems/roman-to-integer/
+14:https://leetcode.com/problems/longest-common-prefix/
